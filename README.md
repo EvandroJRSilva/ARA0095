@@ -35,7 +35,9 @@ Repositório para aulas e demais materiais da disciplina ARA0095 da Faculdade Es
 
 ## **Datas**
 
-Turma: 1001
+Turmas
+
+![](https://img.shields.io/badge/Sexta-1001-lightgrey)
 
 <br />
 
