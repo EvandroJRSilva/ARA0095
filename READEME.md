@@ -39,95 +39,104 @@ Turma: 1001
 
 <br />
 
-Fevereivo
+**Fevereivo**
 
 | Seg | Ter | Qua | Qui | Sex |
 |---|---|---|---|---|
 | | | 01 | 02 | 03 | 04 |
 | 06 | 07 | 08 | 09 | 10 | 11 |
 | 13 | 14 | 15 | 16 | 17 | 18 |
-| <span style="color:cornflowerblue">20</span> | <span style="color:cornflowerblue">21</span> | <span style="color:cornflowerblue">22</span> | 23 | <span style="color:limegreen">24</span> |
+| ![20Fev](https://placehold.co/25/cornflowerblue/white?text=20) | ![21Fev](https://placehold.co/25/cornflowerblue/white?text=21) | ![22Fev](https://placehold.co/25/cornflowerblue/white?text=22) | 23 | ![24Fev](https://placehold.co/25/limegreen/white?text=24) |
 | 27 | 28 | | |
 
 <br />
 
-Março
+**Março**
 
 | Seg | Ter | Qua | Qui | Sex |
 |---|---|---|---|---|
-| | | 01 | 02 | <span style="color:limegreen">03</span> |
-| 06 | 07| 08 | 09 | <span style="color:limegreen">10</span> |
-| <span style="color:orange">13</span> | 14 | 15 | 16 | <span style="color:limegreen">17</span> |
-| 20 | 21 | 22 | 23 | <span style="color:limegreen">24</span> |
-| 27 | 28 | 29 | 30 | <span style="color:limegreen">31</span> |
+| | | 01 | 02 | ![03Mar](https://placehold.co/25/limegreen/white?text=03) |
+| 06 | 07| 08 | 09 | ![10Mar](https://placehold.co/25/limegreen/white?text=10) |
+| ![13Mar](https://placehold.co/25/orange/white?text=13) | 14 | 15 | 16 | ![17Mar](https://placehold.co/25/limegreen/white?text=17) |
+| 20 | 21 | 22 | 23 | ![24Mar](https://placehold.co/25/limegreen/white?text=24) |
+| 27 | 28 | 29 | 30 | ![31Mar](https://placehold.co/25/limegreen/white?text=31) |
 
 <br />
 
-Abril
+**Abril**
 
 | Seg | Ter | Qua | Qui | Sex |
 |---|---|---|---|---|
-| <span style="color:orange">03</span> | 04 | 05 | 06 | <span style="color:cornflowerblue">07</span> |
-| 10 | 11 | 12 | 13 | <span style="color:limegreen">14</span> |
-| 17 | 18 | 19 | 20 | <span style="color:cornflowerblue">21</span> |
-| 24 | 25 | 26 | 27 | <span style="color:red">28</span> |
+| ![03Abr](https://placehold.co/25/orange/white?text=03) | 04 | 05 | 06 | ![07Abr](https://placehold.co/25/cornflowerblue/white?text=07) |
+| 10 | 11 | 12 | 13 | ![14Abr](https://placehold.co/25/limegreen/white?text=14) |
+| 17 | 18 | 19 | 20 | ![21Abr](https://placehold.co/25/cornflowerblue/white?text=21) |
+| 24 | 25 | 26 | 27 | ![28Abr](https://placehold.co/25/red/white?text=28) |
 
 <br />
 
-Maio
+**Maio**
 
 | Seg | Ter | Qua | Qui | Sex |
 |---|---|---|---|---|
-| <span style="color:cornflowerblue">01</span> | <span style="color:orange">02</span> | 03 | 04 | <span style="color:limegreen">05</span> |
-| 08 | 09 | 10 | 11 | <span style="color:limegreen">12</span> |
-| <span style="color:orange">15</span> | 16 | 17 | 18 | <span style="color:limegreen">19</span> |
-| 22 | 23 | 24 | 25 | <span style="color:limegreen">26</span> |
+| ![01Mai](https://placehold.co/25/cornflowerblue/white?text=01) | ![02Mai](https://placehold.co/25/orange/white?text=02) | 03 | 04 | ![05Mai](https://placehold.co/25/limegreen/white?text=05) |
+| 08 | 09 | 10 | 11 | ![12Mai](https://placehold.co/25/limegreen/white?text=12) |
+| ![15Mai](https://placehold.co/25/orange/white?text=15) | 16 | 17 | 18 | ![19Mai](https://placehold.co/25/limegreen/white?text=19) |
+| 22 | 23 | 24 | 25 | ![26Mai](https://placehold.co/25/limegreen/white?text=26) |
 | 29 | 30 | 31 |    |    |
 
 <br />
 
-Junho
+**Junho**
 
 | Seg | Ter | Qua | Qui | Sex |
 |---|---|---|---|---|
-| | | | 01 | <span style="color:red">02</span> |
-| 05 | 06 | 07 | <span style="color:cornflowerblue">08</span> | <span style="color:cornflowerblue">09</span> |
-| 12 | 13 | 14 | 15 | <span style="color:limegreen">16</span> |
-| 19 | 20 | 21 | 22 | <span style="color:red">23</span> |
+| | | | 01 | ![02Jun](https://placehold.co/25/red/white?text=02) |
+| 05 | 06 | 07 | ![08Jun](https://placehold.co/25/cornflowerblue/white?text=21) | ![09Jun](https://placehold.co/25/cornflowerblue/white?text=09) |
+| 12 | 13 | 14 | 15 | ![16Jun](https://placehold.co/25/limegreen/white?text=16) |
+| 19 | 20 | 21 | 22 | ![23Jun](https://placehold.co/25/red/white?text=23) |
 | 26 | 27 | 28 | 29 | 30 |
 
 <br />
 
 *Legendas*
 
-<span style="color:limegreen">Aula</span>
-<span style="color:cornflowerblue">Feriado</span>
-<span style="color:orange">Avaliando o Aprendizado</span>
-<span style="color:red">Prova</span>
+![Aula](https://img.shields.io/badge/-Aula-limegreen?style=for-the-badge)
+![Feriado](https://img.shields.io/badge/-Feriado-cornflowerblue?style=for-the-badge)
+![AvA](https://img.shields.io/badge/-Avaliando_o_Aprendizado-orange?style=for-the-badge)
+![Prova](https://img.shields.io/badge/-Prova-red?style=for-the-badge)
 
 -----
 
 ## **Avaliação**
 
-* Média: (AV1 + AV2 + AVD)/3
+* Média = (AV1 + AV2 + AVD)/3
+  * Valor mínimo: 6,0.
   * AV1
-    * Prova + Trabalho, valendo 10 pontos.
+    * Prova + Trabalho.
     * Valor mínimo: 4,0.
+    * É possível o acréscimo de 1,0 ponto através do AvA 1 e AvA 2 (0,5 de cada).
   * AV2
-    * Prova + Trabalho, valendo 10 pontos.
+    * Prova + Trabalho.
     * Valor mínimo: 4,0.
+    * É possível o acréscimo de 1,0 ponto através do AvA 1 e AvA 2 (0,5 de cada).
   * AVD
-    * Prova correspondente do conteúdo do Crédito Digital.
-    * Valor mínimo: 4,0.
+    * Prova.
+    *  Valor mínimo: 4,0
+    * Correspondente ao conteúdo do Crédito Digital.
+    * Ocorre no mesmo período da AV2.
   * AV3
-    * O aluno deverá fazer se:
-      * Sua AV1 ou AV2 estiver com o valor abaixo do mínimo, ou
-      * A média não tiver sido atingida, ou
+    * Prova substitutiva.
+    * O aluno deverá fazer essa prova se:
+      * Tiver faltado AV1 ou AV2, ou
+      * AV1 ou AV2 com valor abaixo de 4,0 ou
+      * Média abaixo de 6,0 ou
       * Queira aumentar sua nota.
-    * Seu valor substituirá a menor nota entre AV1 e AV2.
+    * O valor dessa prova substituirá o menor valor entre AV1 e AV2.
   * AVDS
-    * Substitui da nota da AVD, caso esteja abaixo de 4,0.
-  * Valor mínimo para aprovação: 6
+    * Prova substitutiva.
+    * O aluno deverá fazer essa prova se:
+      * Tiver faltado a AVD, ou
+      * AVD com valor abaixo de 4,0.
 * Frequência mínima: 75%
   * Lembre que falta também reprova!
 
@@ -137,30 +146,30 @@ Junho
 
 **Básica**
 
-BANIN, Sérgio Luiz. **Python 3 ­ Conceitos e Aplicações ­ Uma Abordagem Didática**. 1. São Paulo: Érica, 2018.
+BANIN, Sérgio Luiz. **Python 3 ­ Conceitos e Aplicações ­ Uma Abordagem Didática**. 1. São Paulo: Érica, 2018. <br>
 Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788536530253/
 
-PERKOVIC, Ljubomir. **Introdução à Computação Usando Python ­ Um Foco no Desenvolvimento de Aplicações**. 1. Rio de Janeiro: LTC, 2016.
+PERKOVIC, Ljubomir. **Introdução à Computação Usando Python ­ Um Foco no Desenvolvimento de Aplicações**. 1. Rio de Janeiro: LTC, 2016. <br>
 Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788521630937/cfi/6/2!/4/2/2@0:0
 
-TUCKER, Allen; NOONAN, Robert. **Linguagens de Programação: Princípios e Paradigmas**. 1. Porto Alegre: Grupo A
+TUCKER, Allen; NOONAN, Robert. **Linguagens de Programação: Princípios e Paradigmas**. 1. Porto Alegre: Grupo A. <br>
 Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788563308566/cfi/0!/4/2@100:0.00
 
 <br />
 
 **Complementar**
 
-ALVES, William P. **Projetos de Sistemas Web**. São Paulo: Érica, 2015.
+ALVES, William P. **Projetos de Sistemas Web**. São Paulo: Érica, 2015. <br>
 Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788536532462
 
-Forbellone, André L. V. **Lógica de Programação a construção de algoritmos e estruturas de dados**. 3. São Paulo: Pearson, 2005.
+Forbellone, André L. V. **Lógica de Programação a construção de algoritmos e estruturas de dados**. 3. São Paulo: Pearson, 2005. <br>
 Disponível em: https://plataforma.bvirtual.com.br/Leitor/Loader/323/pdf
 
-LIMA, Janssen dos Reis. **Consumindo a API do Zabbix com Python**. 1. Rio de Janeiro: Brasport, 2016.
+LIMA, Janssen dos Reis. **Consumindo a API do Zabbix com Python**. 1. Rio de Janeiro: Brasport, 2016. <br>
 Disponível em: https://plataforma.bvirtual.com.br/Leitor/Loader/160738/epub
 
-SEBESTA,Robert W. **Conceitos de Linguagens de Programação**. 11. Porto Alegre: Grupo A, 2011.
+SEBESTA,Robert W. **Conceitos de Linguagens de Programação**. 11. Porto Alegre: Grupo A, 2011. <br>
 Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788582604694/cfi/3!/4/4@0.00:36.7
 
-WAZLAWICK, Raul, S. **Introdução a Algoritmos e Programação com Python**. São Paulo: Elsevier, 2018.
+WAZLAWICK, Raul, S. **Introdução a Algoritmos e Programação com Python**. São Paulo: Elsevier, 2018. <br>
 Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788595156968/
