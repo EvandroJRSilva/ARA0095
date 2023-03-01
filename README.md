@@ -25,7 +25,7 @@ Repositório para aulas e demais materiais da disciplina ARA0095 da Faculdade Es
    2. Widgets e montagem
    3. Inclusão de dados em Tabela
    4. Localização, alteração e exclusão de dados em Tabela
-5. Aplicando RAD (crédito digital)
+5. Aplicando RAD (atividade prática supervisionada)
    1. Etapas com RAD
    2. Modelagem de Negócios e Dados
    3. Design e Interface
@@ -93,7 +93,7 @@ Turmas
 | Seg | Ter | Qua | Qui | Sex |
 |---|---|---|---|---|
 | | | | 01 | ![02Jun](https://placehold.co/25/red/white?text=02) |
-| 05 | 06 | 07 | ![08Jun](https://placehold.co/25/cornflowerblue/white?text=21) | ![09Jun](https://placehold.co/25/cornflowerblue/white?text=09) |
+| 05 | 06 | 07 | ![08Jun](https://placehold.co/25/cornflowerblue/white?text=08) | ![09Jun](https://placehold.co/25/limegreen/white?text=09) |
 | 12 | 13 | 14 | 15 | ![16Jun](https://placehold.co/25/limegreen/white?text=16) |
 | 19 | 20 | 21 | 22 | ![23Jun](https://placehold.co/25/red/white?text=23) |
 | 26 | 27 | 28 | 29 | 30 |
@@ -111,7 +111,7 @@ Turmas
 
 ## **Avaliação**
 
-* Média = (AV1 + AV2 + AVD)/3
+* Média = (AV1 + AV2)/2
   * Valor mínimo: 6,0.
   * AV1
     * Prova + Trabalho.
@@ -121,11 +121,6 @@ Turmas
     * Prova + Trabalho.
     * Valor mínimo: 4,0.
     * É possível o acréscimo de 1,0 ponto através do AvA 1 e AvA 2 (0,5 de cada).
-  * AVD
-    * Prova.
-    *  Valor mínimo: 4,0
-    * Correspondente ao conteúdo do Crédito Digital.
-    * Ocorre no mesmo período da AV2.
   * AV3
     * Prova substitutiva.
     * O aluno deverá fazer essa prova se:
@@ -134,11 +129,6 @@ Turmas
       * Média abaixo de 6,0 ou
       * Queira aumentar sua nota.
     * O valor dessa prova substituirá o menor valor entre AV1 e AV2.
-  * AVDS
-    * Prova substitutiva.
-    * O aluno deverá fazer essa prova se:
-      * Tiver faltado a AVD, ou
-      * AVD com valor abaixo de 4,0.
 * Frequência mínima: 75%
   * Lembre que falta também reprova!
 
